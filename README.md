@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshat11_" target="blank"><img src="https://img.shields.io/twitter/follow/akshat11_?logo=twitter&style=for-the-badge" alt="akshat11_" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aks11-11](https://github.com/Aks11-11)
 
